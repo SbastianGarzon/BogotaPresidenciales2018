@@ -1,5 +1,3 @@
-# BogotaPresidenciales2018
-Datos votaciones por localidad 1º vuelta elecciones presidenciales Colombia
 # Resultados elecciones Senado 2018 en la ciudad de Bogotá
 
 Experimento visualizacion de resultados de la primera vuelta de las elecciones Presidenciales en Bogotá 2018 por localidades. 
