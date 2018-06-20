@@ -1,4 +1,4 @@
-# Resultados elecciones Senado 2018 en la ciudad de Bogotá
+# Resultados elecciones Presidenciales 2018 en la ciudad de Bogotá
 
 Experimento visualizacion de resultados de la primera vuelta de las elecciones Presidenciales en Bogotá 2018 por localidades. 
 Los datos incluyen los resultados **por candidato** de las 20 localidades de la ciudad y 2 Zonas especiales (Cárceles y Corferias). Los datos son transcripciones de los formatos E26 de la Registraduría, es decir son los datos definitivos.
